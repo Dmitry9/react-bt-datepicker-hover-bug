@@ -21,7 +21,7 @@
     "react": ">=15.0.0"
   },
   "devDependencies": {
-    "moment": "^2.14.1",
+    "moment": "^2.14.1"
     },
   "bugs": {
     "url": "https://github.com/Dmitry9/react-bt-datepicker-hover-bug/issues"
